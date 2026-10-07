@@ -1,5 +1,7 @@
 # Simulacija upozorenja na temperaturu
 
+Projekt uredio: David Lovrić
+
 Inačica: demo-v04. Projekt provjerava ručno unesenu temperaturu. Nema fizičkog senzora, mjerenja vlage ni upravljanja ventilatorom.
 
 ## Pokretanje
